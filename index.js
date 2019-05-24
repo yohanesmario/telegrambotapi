@@ -1,7 +1,7 @@
 const Telegram = require('telegram-bot-api');
 
 const api = new Telegram({
-  token: '[YOUR_BOT_API_TOKEN]', //Fill your bot API token here. 
+  token: '[API_TOKEN]', //Fill your bot API token here. 
   updates: {
     enabled: true //This one is to make sure the library is requesting for updates, or else, your program will exit
   }
