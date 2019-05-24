@@ -1,0 +1,22 @@
+{
+  "name": "telegrambotapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohanesmario/telegrambotapi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yohanesmario/telegrambotapi/issues"
+  },
+  "homepage": "https://github.com/yohanesmario/telegrambotapi#readme",
+  "dependencies": {
+    "telegram-bot-api": "^1.3.3"
+  }
+}
